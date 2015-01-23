@@ -1,5 +1,5 @@
 #! /bin/bash
-# Get the Jenkins job config for a given job
+# Post the Jenkins job config for a given job
 
 JENKINS_USER=${JENKINS_USER:-$USER}
 JOB_NAME=$1
