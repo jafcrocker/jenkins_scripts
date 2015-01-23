@@ -1,9 +1,9 @@
 Useful scripts for getting/posting configs to jenkins
 --------------------
 
-Workflow:
+**Workflow:**
 
-1) Get the configuration file for a given job and save it in <JOB_NAME>.xml
+1) Get the configuration file for a given job and save it in \<JOB_NAME\>.xml
 ```
 get_config <JOB_NAME>
 ```
