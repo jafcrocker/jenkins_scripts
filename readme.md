@@ -1,4 +1,4 @@
-Useful scripts for getting/posting configs to jenkins
+Useful scripts for getting/posting configs to Jenkins
 --------------------
 
 **Workflow:**
